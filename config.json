@@ -1,0 +1,27 @@
+{
+    "ownerNumber": ["6285754202785@s.whatsapp.net"],
+    "ownerName": "Ainul",
+    "instagram" : "https://instagram.com/ainul_store_",
+    "botName": "Ainul Store ",
+    "footer": "By Ainul",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "hai",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 20,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
